@@ -14,7 +14,7 @@
     "hold": "0.0.10",
     "dateformat": "~1.0.11",
     "assent": "git+https://github.com/mideveloper/assent.git",
-    "storehouse": "git+https://github.com/mideveloper/storehouse.git",
+    "storehouse": "git+https://github.com/mideveloper/storehouse.git#0.0.1",
     "circulate": "git+https://github.com/mideveloper/circulate.git",
     "ephemeral": "git+https://github.com/mideveloper/ephemeral.git",
     "goof": "git+https://github.com/mideveloper/goof.git"
